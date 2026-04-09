@@ -16,11 +16,11 @@ This is why Axiom Lab exists.
 
 ## The Stack
 
-- `Flux` — a math-native programming language that narrows the gap between formal structure and executable computation
-- `Tenet` — a game-theoretic reasoning and coordination layer for incentives, equilibrium logic, and strategic systems
-- `Alexitha` — a neurosymbolic reasoning architecture shaped by structure rather than imitation alone
-- `Axiom OS` — an AI-native operating-system direction built around reasoning workloads
-- `CORA` — the Core Operating & Reasoning Appliance, a hardware system for sovereign local execution
+- `Flux` - a math-native programming language that narrows the gap between formal structure and executable computation
+- `Tenet` - a game-theoretic reasoning and coordination layer for incentives, equilibrium logic, and strategic systems
+- `Alexitha` - a neurosymbolic reasoning architecture shaped by structure rather than imitation alone
+- `Axiom OS` - an AI-native operating-system direction built around reasoning workloads
+- `CORA` - the Core Operating & Reasoning Appliance, a hardware system for sovereign local execution
 
 ## Why This Organization Exists
 
